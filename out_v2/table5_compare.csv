@@ -1,0 +1,5 @@
+detector,NABstyle,range_rec,dAR30_%,beyond_min
+IsolationForest,0.70,0.83,+14,+5
+PCA-recon,0.69,0.85,+16,+9
+AE-level,0.70,0.87,+17,+14
+AE-combined,0.68,0.84,+13,+6

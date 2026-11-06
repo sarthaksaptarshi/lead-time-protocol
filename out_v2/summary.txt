@@ -1,0 +1,9 @@
+rho=0.034 CI[-0.21,0.27]
+IsolationForest cov=1.00 AR30=0.67 dAR30=0.140 lead=54.4 beyond_all=5.3 beyond_grad=24.3 beyond_sud=-23.2 nullcov=0.79 occ=0.199 apd=5.17 f1op=0.315 f1best=0.907 leadbest=5.8 nab=0.696 range=0.826
+PCA-recon cov=1.00 AR30=0.79 dAR30=0.162 lead=63.1 beyond_all=8.8 beyond_grad=27.3 beyond_sud=-19.3 nullcov=0.87 occ=0.087 apd=7.68 f1op=0.478 f1best=0.945 leadbest=-5.3 nab=0.689 range=0.849
+AE-level cov=1.00 AR30=0.81 dAR30=0.175 lead=69.5 beyond_all=14.1 beyond_grad=34.7 beyond_sud=-16.7 nullcov=0.87 occ=0.091 apd=7.78 f1op=0.464 f1best=0.945 leadbest=-4.7 nab=0.700 range=0.867
+AE-trend cov=1.00 AR30=0.64 dAR30=0.054 lead=48.6 beyond_all=-3.1 beyond_grad=12.1 beyond_sud=-25.8 nullcov=0.84 occ=0.100 apd=7.50 f1op=0.505 f1best=0.920 leadbest=-3.8 nab=0.634 range=0.812
+AE-combined cov=1.00 AR30=0.74 dAR30=0.129 lead=59.7 beyond_all=6.3 beyond_grad=28.7 beyond_sud=-27.1 nullcov=0.86 occ=0.100 apd=7.38 f1op=0.467 f1best=0.956 leadbest=-7.1 nab=0.676 range=0.841
+Random cov=0.50 AR30=0.31 dAR30=0.070 lead=38.3 beyond_all=3.6 beyond_grad=10.1 beyond_sud=-6.9 nullcov=0.44 occ=0.195 apd=3.97 f1op=0.077 f1best=0.079 leadbest=36.6 nab=0.322 range=0.397
+Onset-only cov=1.00 AR30=0.25 dAR30=-0.173 lead=18.7 beyond_all=-24.1 beyond_grad=-23.8 beyond_sud=-24.4 nullcov=0.69 occ=0.201 apd=4.40 f1op=0.335 f1best=0.995 leadbest=-4.2 nab=0.528 range=0.732
+Precursor-oracle cov=1.00 AR30=0.76 dAR30=0.110 lead=74.2 beyond_all=18.0 beyond_grad=47.2 beyond_sud=-25.8 nullcov=0.89 occ=0.094 apd=7.81 f1op=0.434 f1best=0.947 leadbest=-7.3 nab=0.695 range=0.880

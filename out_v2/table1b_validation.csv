@@ -1,0 +1,5 @@
+detector,cov_gradual_%,dAR30_gradual_%_95CI,beyond_gradual_min
+Precursor-oracle,100,"+35 [+31,+39]",+47
+AE-level,100,"+37 [+32,+41]",+35
+Random,47,"+8 [-1,+17]",+10
+Onset-only,100,"-18 [-27,-9]",-24

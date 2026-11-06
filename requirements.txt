@@ -1,0 +1,7 @@
+# Python 3.10+ recommended (developed on 3.12).
+# Floors are conservative; the exact versions used for the paper are listed
+# in README.md and the manuscript's Reproducibility section.
+numpy>=2.0
+scipy>=1.11
+scikit-learn>=1.3
+matplotlib>=3.7

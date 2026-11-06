@@ -1,0 +1,5 @@
+detector,F1_op,lead_op_min,cov_op_%,alerts/day_op,F1_oracle,lead_oracle_min
+IsolationForest,0.32,54,100,5.2,0.91,+6
+PCA-recon,0.48,63,100,7.7,0.94,-5
+AE-level,0.46,70,100,7.8,0.94,-5
+AE-combined,0.47,60,100,7.4,0.96,-7

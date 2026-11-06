@@ -1,0 +1,5 @@
+detector,cov_%,AR30_%,dAR30_%_95CI,lead|det_min,beyond_chance_min_95CI
+IsolationForest,100,67,"+14 [+9,+19]",54,"+5 [+0,+11]"
+PCA-recon,100,79,"+16 [+12,+20]",63,"+9 [+5,+13]"
+AE-level,100,81,"+17 [+13,+22]",70,"+14 [+9,+19]"
+AE-combined,100,74,"+13 [+9,+17]",60,"+6 [+2,+11]"
